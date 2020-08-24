@@ -1,4 +1,4 @@
-### _Nicole Silva_   :sparkles:
+### :sparkles: _Nicole Silva_   
 _Seja Bem vindo(a) ao meu perfil_ 
 ***
       Sou iniciante em programação (Autodidata). 
