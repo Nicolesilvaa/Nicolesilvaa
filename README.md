@@ -17,7 +17,7 @@ Linguagens/Softwares | Nível |
 
 ![Nicole Silva github stats](https://github-readme-stats.vercel.app/api?username=NicoleSilvaa&show_icons=true&theme=radical)
 
-##### _Redes Sociais:_
+#### _Redes Sociais:_
   <a href="https://twitter.com/VersNs">
   <img align="left" alt="Nicole Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> 
   <a/>
@@ -26,6 +26,6 @@ Linguagens/Softwares | Nível |
    <a/>
     <br/>
                
- ##### _Contato:_              
+ #### _Contato:_              
 :envelope: Email: nicolesilva8144@gmail.com
            
