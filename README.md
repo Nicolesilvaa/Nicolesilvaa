@@ -15,7 +15,7 @@ Linguagens/Softwares | Nível |
    Vscode | Básico
 ***
 
-![Nicole Silva github stats](https://github-readme-stats.vercel.app/api?username=NicoleSilvaa&show_icons=true&theme=radical)
+![Nicole  github stats](https://github-readme-stats.vercel.app/api?username=NicoleSilvaa&show_icons=true&theme=radical
 
 #### _Redes Sociais:_
   <a href="https://twitter.com/VersNs">
