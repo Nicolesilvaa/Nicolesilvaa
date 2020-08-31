@@ -11,7 +11,7 @@ Linguagens/Softwares | Nível |
    ---: | :---| 
    Arduino    | Básico
    C++        | Básico
-   Git/Github |   Básico
+   Git/Github | Básico
    Vscode | Básico
 ***
 
