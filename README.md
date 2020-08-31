@@ -4,15 +4,15 @@
 
 Idade : 16 Anos
 
-Nível :  iniciante
+Nível :  iniciante em programação
 ***
-### *_Conhecimentos_* :books: : 
-Linguagens/Softwares | Nível | 
-   ---: | :---| 
-   Arduino    | Básico
-   C++        | Básico
-   Git/Github | Básico
-   Vscode | Básico
+### *_Conhecimentos_* :books: :
+Linguagens/Softwares | Nível  
+:-------------------:| :----: 
+Arduino| Básic
+ C++  | Básico
+ Git/Github | Básico
+ Vscode | Básico
 ***
 
 ![Nicole  github stats](https://github-readme-stats.vercel.app/api?username=NicoleSilvaa&show_icons=true&theme=dark)
