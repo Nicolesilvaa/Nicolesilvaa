@@ -9,7 +9,7 @@ Nível :  iniciante em programação
 ### *_Conhecimentos_* :books: :
 Linguagens/Softwares | Nível  
 :-------------------:| :----: 
-Arduino| Básic
+Arduino| Básico
  C++  | Básico
  Git/Github | Básico
  Vscode | Básico
