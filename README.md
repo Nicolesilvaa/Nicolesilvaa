@@ -1,6 +1,6 @@
 # _Nicole Silva_ :sparkles:  
             
-### *_Informações pessoais_* :octocat: :
+## *_Informações pessoais_* :octocat: :
 
 Idade : 16 Anos
 
