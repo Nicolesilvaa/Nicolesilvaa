@@ -1,17 +1,27 @@
-# _Nicole Silva_ :sparkles:  
+# _Bem-Vindos(as)_ :sparkles:  
             
-## *_Informações Adicionais_* :octocat: :
+## *_Sobre mim_* :octocat: :
 
-Idade: 17 anos
+Me chamo Nicole Silva, tenho 17 anos. Sou iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
 
-Nível:  iniciante em programação
+:round_pushpin: Salavador | BA - Brasil
+
+***
+## *_Formação_* :woman_student: :
+
+Ensino médio : concluindo
+***
+## *_Linguagens que pretendo aprender_* :
+
+- [ ] Python
+- [ ] Shell Script
+- [ ] C
 ***
 
 
+![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dracula))
 
-![Nicole Silva github stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=dracula)](https://github.com/anuraghazra/githubreadmestats)
 
 #### _Redes Sociais:_
   <a href="https://twitter.com/VersNs">
@@ -25,3 +35,4 @@ Nível:  iniciante em programação
  #### _Contato:_              
 :envelope: Email: nicolesilva8144@gmail.com
            
+ 
