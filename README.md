@@ -1,15 +1,15 @@
 # _Nicole Silva_ :sparkles:  
             
-## *_Informações pessoais_* :octocat: :
+## *_Informações Adicionais_* :octocat: :
 
-Idade : 16 Anos
+Idade: 17 anos
 
-Nível :  iniciante em programação
+Nível:  iniciante em programação
 ***
 
 
 
-![Nicole Silva github stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&show_icons=true&theme=dark)
+![Nicole Silva github stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&show_icons=true&theme=)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
