@@ -1,17 +1,17 @@
 # _Bem-Vindos(as)_ :sparkles:  
+
             
 ## *_Sobre mim_* :octocat: :
 
 Me chamo Nicole Silva, tenho 17 anos. Sou iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
 
+ *_Formação_* :woman_student: :
+
+Ensino médio : em conclusão 
+
 :round_pushpin: Salavador | BA - Brasil
-
 ***
-## *_Formação_* :woman_student: :
-
-Ensino médio : concluindo
-***
-## *_Linguagens que pretendo aprender_* :books: :
+### *_Linguagens que pretendo aprender_* :books: :
 
 - [ ] Python
 - [ ] Shell Script
