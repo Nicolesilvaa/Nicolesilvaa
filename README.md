@@ -1,9 +1,11 @@
-# _Bem-Vindos(as)_ :sparkles:  
+# _Bem-Vindos(as)_ :sparkles: 
 
             
 ## *_Sobre mim_* :octocat: :
 
-Me chamo Nicole Silva, tenho 17 anos. Sou iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
+Root : Nicole Silva, 17 anos.
+
+ Iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
 
  *_Formação_* :woman_student: :
 
@@ -19,7 +21,7 @@ Ensino médio : em conclusão
 ***
 
 
-![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dark))
+![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dracula))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=dark)](https://github.com/anuraghazra/githubreadmestats)
 
