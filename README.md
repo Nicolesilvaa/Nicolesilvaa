@@ -21,7 +21,7 @@ Ensino médio : em conclusão
 ***
 
 
-![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dracula))
+![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dark))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=dark)](https://github.com/anuraghazra/githubreadmestats)
 
