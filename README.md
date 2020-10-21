@@ -9,7 +9,7 @@ Me chamo Nicole Silva, tenho 17 anos. Sou iniciante em programação, especifica
 
 Ensino médio : em conclusão 
 
-:round_pushpin: Salavador | BA - Brasil
+:round_pushpin: Salvador | BA - Brasil
 ***
 ### *_Linguagens que pretendo aprender_* :books: :
 
