@@ -27,9 +27,7 @@ Ensino médio : em conclusão
 
 #### _Redes Sociais:_
 
- <a href="https://www.instagram.com/b4dgallni/">
-    <img align="left" alt="Nicole Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> 
-          <a/>
+ 
          <a href="https://twitter.com/VersNs">
              <img align="left" alt="Nicole Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> 
                <a/>
