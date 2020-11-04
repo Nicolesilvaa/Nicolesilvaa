@@ -7,10 +7,7 @@ Root : Nicole Silva, 17 anos.
 
  Iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
 
- *_Formação_* :woman_student: :
-
-Ensino médio : em conclusão 
-
+ 
 :round_pushpin: Salvador | BA - Brasil
 ***
 ### *_Linguagens que pretendo aprender_* :books: :
@@ -34,7 +31,10 @@ Ensino médio : em conclusão
       <a href="https://github.com/Nicolesilvaa">
          <img align="left" alt="Nicole Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
             <a/>
-                 <br/>
+                  <a href="https://www.instagram.com/b4dgallni/">
+                       <img align="left" alt="Nicole Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> 
+                             <a/>
+                                    <br/>
                
  #### _Contato:_              
 :envelope: Email: nicolesilva8144@gmail.com
