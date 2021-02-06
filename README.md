@@ -26,7 +26,7 @@ Root : Nicole Silva, 17 anos.
   <a href="https://www.instagram.com/nilewaa/">
     <img align="left" alt="Nicole Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> 
       <a/>
-        <a href="www.linkedin.com/in/NicoleSilva-J/">
+        <a href="htps://www.linkedin.com/in/NicoleSilva-J/">
           <img align="left" alt="Nicole Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
             <a/>
         <br/>
