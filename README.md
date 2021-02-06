@@ -14,7 +14,7 @@ Root : Nicole Silva, 17 anos.
 
 - [ ] Python
 - [ ] Shell Script
-- [ ] C
+
 ***
 
 
