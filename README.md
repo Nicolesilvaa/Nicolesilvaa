@@ -10,13 +10,6 @@ Root : Nicole Silva, 17 anos.
  
 :round_pushpin: Salvador | BA - Brasil
 ***
-### *_Linguagens que pretendo aprender_* :books: :
-
-- [ ] Python
-- [ ] Shell Script
-
-***
-
 
 ![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
