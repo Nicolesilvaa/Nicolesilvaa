@@ -18,9 +18,9 @@ Root : Nicole Silva, 17 anos.
 ***
 
 
-![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=white)
+![Nicole Silva stats](https://github-readme-stats.vercel.app/api?username=Nicolesilvaa&hide=contribs,prs&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=white)](https://github.com/anuraghazra/githubreadmestats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=dark)](https://github.com/anuraghazra/githubreadmestats)
 
 #### _Redes Sociais:_
   <a href="https://www.linkedin.com/in/nicolesilva-j/">
