@@ -3,7 +3,7 @@
             
 ## *_Sobre mim_* :octocat: :
 
-Root : Nicole Silva, 17 anos.
+Root : Nicole Silva, 18 anos.
 
  Iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
 
