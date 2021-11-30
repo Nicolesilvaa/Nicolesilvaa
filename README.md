@@ -16,8 +16,7 @@ Root : Nicole Silva, 18 anos.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolesilvaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/githubreadmestats)
 
 
-               
- #### _Contato:_              
-:envelope: Email: nicolesilva8144@gmail.com
+             
+
            
  
