@@ -1,7 +1,6 @@
-# _Nicole Silva_:sparkles: 
+## _Hello World! Me chamo Nicole Silva_:sparkles: 
 
-![OctaCat-NI](https://user-images.githubusercontent.com/68083480/145659811-1ea1c857-036a-4bb6-9da3-62eb3a5161d1.png)
-
+![giphy](https://user-images.githubusercontent.com/68083480/145662235-81c4ef7b-cbfe-4a90-9bdc-a96e6aeabf8c.gif)
 
 [/Buton Linkedin e Gmail/]: <> (Copiei e colei, não entendo de HTML.)
 <p align="left">
@@ -28,8 +27,11 @@
 [//]: <> (Principais repositórios.)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=nicolesilvaa&repo=AlgoMat&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=nicolesilvaa&repo=Primeiros.Codigos&theme=radical)
-
+***
 [//]: <> (Animação.)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 Inspirações: @rafaballerini e @anuraghazra.
+
+
+
