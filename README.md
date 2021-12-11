@@ -16,7 +16,6 @@
 
 :penguin: GNU/Linux User.
 
-:round_pushpin: Salvador | BA - Brasil
 ***
 
 [//]: <> (Estatísticas perfil.)
