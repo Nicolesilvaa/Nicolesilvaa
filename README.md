@@ -34,7 +34,6 @@
   
 [/Tools/]: <> (Ferramentas que ja utilizei.)
 ![ubuntustarthere_104634](https://user-images.githubusercontent.com/68083480/145677940-b0f7ab9e-27af-49a2-a8d7-acc1cf2c7001.png)
-![file_type_vscode_icon_130084](https://user-images.githubusercontent.com/68083480/145678038-27d41d1f-5682-435d-986c-4c19bf43b1cc.png)
 ![distributorlogofedora_94082](https://user-images.githubusercontent.com/68083480/145678043-8a601a95-65b2-40ef-bb10-9bd2038d0523.png)
  ![vim_logo_icon_170256](https://user-images.githubusercontent.com/68083480/145678393-451c3158-5b2b-4a01-ab15-e451da3ec24a.png)
  ![octave_94226](https://user-images.githubusercontent.com/68083480/145678540-2deaa0d7-dfca-49eb-8674-e0b2ebfafe08.png)
