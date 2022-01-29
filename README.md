@@ -14,7 +14,7 @@
 - :bookmark_tabs: Autodidata 
 - :books: Graduanda no curso Bacharelado Interdisciplinar de Ciências e Tecnologia, da Universidade Federal da Bahia.
 
-- :space_invader: Iniciante em programação, especificamente, em lógica de programação, pseudocódigos, e na linguagem c++.
+- :space_invader: Iniciante em programação, especificamente em lógica de programação, pseudocódigos, e na linguagem c++.
 
 - :penguin: GNU/Linux User.
   
