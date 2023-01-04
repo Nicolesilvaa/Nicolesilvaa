@@ -2,7 +2,8 @@
 
 
 
-[/Buton Linkedin e Gmail/]: <> (Copiei e colei, não entendo de HTML.)
+[/Buton Linkedin e Gmail/]: <>
+
 <p align="left">
   <a href="mailto:nicolesilva8144@gmail.com?subject=Ol%C3%A1!" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedroveiga.ribeiro@gmail.com?subject=Ol%C3%A1!"  /></a>
@@ -11,8 +12,9 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>
 
 ### Sobre mim :octocat:
-- :bookmark_tabs: Autodidata 
-- :books: Graduanda no curso Bacharelado Interdisciplinar de Ciências e Tecnologia, da Universidade Federal da Bahia.
+  
+- :bookmark_tabs: 
+- :books: Graduanda no curso Bacharelado Interdisciplinar em Ciência e Tecnologia,com foco em Ciência da Computação, ofertado pela Universidade Federal da Bahia.
 
 - :space_invader: Iniciante em programação, especificamente em lógica de programação, pseudocódigos, e na linguagem c++.
 
