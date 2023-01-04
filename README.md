@@ -13,11 +13,8 @@
 
 ### Sobre mim :octocat:
   
-- :bookmark_tabs: Programando desde 2019
+- :space_invader: Programando desde 2019
 - :books: Graduanda no curso Bacharelado Interdisciplinar em Ciência e Tecnologia,com foco em Ciência da Computação, ofertado pela Universidade Federal da Bahia.
-
-- :space_invader: Iniciante em programação, especificamente em lógica de programação, pseudocódigos, e na linguagem c++.
-
 - :penguin: GNU/Linux User.
   
 *** 
