@@ -1,37 +1,54 @@
-## _Hello World! Me chamo Nicole Silva_:sparkles: 
-
-
-
-[/Buton Linkedin e Gmail/]: <>
-
-<p align="left">
-  <a href="mailto:nicolesilva8144@gmail.com?subject=Ol%C3%A1!" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedroveiga.ribeiro@gmail.com?subject=Ol%C3%A1!"  /></a>
+ [/Apresentação/]: <> 
+ 
+ <div align="center">
   
-  <a href="https://www.linkedin.com/in/nicole-silva-a1a184224/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>
-
-### Sobre mim :octocat:
+  <h1> < Nicole Silva /> </h1>
+  <p>
+    
+ </p>
   
-- :space_invader: Programando desde 2019
-- :books: Graduanda no curso Bacharelado Interdisciplinar em Ciência e Tecnologia,com foco em Ciência da Computação, ofertado pela Universidade Federal da Bahia.
-- :penguin: GNU/Linux User.
+</div>
   
 *** 
-
-
-[//]: <> (Animação.)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-[/Tools/]: <> (Ferramentas que ja utilizei.)
-![ubuntustarthere_104634](https://user-images.githubusercontent.com/68083480/145677940-b0f7ab9e-27af-49a2-a8d7-acc1cf2c7001.png)
-![distributorlogofedora_94082](https://user-images.githubusercontent.com/68083480/145678043-8a601a95-65b2-40ef-bb10-9bd2038d0523.png)
- ![vim_logo_icon_170256](https://user-images.githubusercontent.com/68083480/145678393-451c3158-5b2b-4a01-ab15-e451da3ec24a.png)
- ![octave_94226](https://user-images.githubusercontent.com/68083480/145678540-2deaa0d7-dfca-49eb-8674-e0b2ebfafe08.png)
- ![logisimicon_94525](https://user-images.githubusercontent.com/68083480/145678653-5a3afbf8-086b-4f05-aa06-65be984e55f8.png)
-![c_icon_132529](https://user-images.githubusercontent.com/68083480/145678764-dbd05c89-4b2d-47c1-83eb-29bada75f5d7.png)
+ [/Estatísticas/]: <> 
+ 
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolesilvaa&bg_color=0d1117&color=D2691E&line=A0522D&point=F4A460&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <div align="center">  
   
-                                     Inspirações: @rafaballerini e @anuraghazra.
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Nicole Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=D2691E&bg_color=0d1117" />
+  
+  </div>
+  
+ ***
+  
+ [/Ferramentas/]: <> 
+ 
+ <div alingn="length">
+  
+  <h3> Ferramentas: </h3>
+  <img src="https://user-images.githubusercontent.com/68083480/228995585-109b395e-43f0-4fd3-8a9b-b2d6cb4e7684.png" />
+  <img src="https://user-images.githubusercontent.com/68083480/228995627-62494b15-64d3-492b-a9c7-a933db1b3a7d.png" />
+  <img src="https://user-images.githubusercontent.com/68083480/228995631-7c69c448-9606-4247-999e-db1411525643.png" />
+  
+  </div>
+  
+  
+ [/Contatos/]: <> 
+ 
+<div alingn="length">
 
+  <h3> Contatos: </h3>
 
+  <p align="lenght">
+   <a href="mailto:nicolesilva8144@gmail.com?subject=Ol%C3%A1!" alt="Gmail" target="_blank">
+   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedroveiga.ribeiro@gmail.com?subject=Ol%C3%A1!"  /></a>
+  
+   <a href="https://www.linkedin.com/in/nicole-silva-a1a184224/" alt="Linkedin" target="_blank">
+   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>
+   
+</div>
 
+             
