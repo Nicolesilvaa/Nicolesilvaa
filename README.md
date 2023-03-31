@@ -2,16 +2,14 @@
  
  <div align="center">
   
-  <h1> < Nicole Silva /> </h1>
-  <p>
-    
- </p>
+ <img src="https://user-images.githubusercontent.com/68083480/229138276-60059877-7bb1-4913-9797-4892e2c976f4.jpg" />
+ 
   
 </div>
   
 *** 
   
- [/Estatísticas/]: <> 
+[/Estatísticas/]: <> 
  
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolesilvaa&bg_color=0d1117&color=D2691E&line=A0522D&point=F4A460&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -32,6 +30,8 @@
   <img src="https://user-images.githubusercontent.com/68083480/228995585-109b395e-43f0-4fd3-8a9b-b2d6cb4e7684.png" />
   <img src="https://user-images.githubusercontent.com/68083480/228995627-62494b15-64d3-492b-a9c7-a933db1b3a7d.png" />
   <img src="https://user-images.githubusercontent.com/68083480/228995631-7c69c448-9606-4247-999e-db1411525643.png" />
+  <img src="https://user-images.githubusercontent.com/68083480/229121319-7f501031-4796-4565-a4e9-0bd41cf83b2f.png" />
+ 
   
   </div>
   
@@ -49,6 +49,8 @@
    <a href="https://www.linkedin.com/in/nicole-silva-a1a184224/" alt="Linkedin" target="_blank">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>
    
+   
+   
 </div>
 
-             
+
