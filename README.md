@@ -27,11 +27,9 @@
   
 [/Estatísticas/]: <> 
  
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nicolesilvaa&bg_color=0d1117&color=D2691E&line=A0522D&point=F4A460&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Nicole Silva github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Nicole Silva github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=D2691E&bg_color=0d1117" />
   
 </div>
