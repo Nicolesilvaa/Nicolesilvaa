@@ -1,59 +1,70 @@
+
+
+<div align="center">  
+ <img src="giphy.gif" alt="Computer man"  style="width:190px;height:190px;">
+</div>
+ 
  [/Apresentação/]: <> 
  
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/68083480/229138276-60059877-7bb1-4913-9797-4892e2c976f4.jpg" />
-
+<div align="center">  
+ <h2> cout << " NILEWA CODE WORLD " << endl;</h2> 
+ <p> Não me considero uma entusiasta da computação, os entusiatas podem beirar o fanatismo. Me considero uma curiosa desse mundo em expansão. Vejo a tecnologia como uma ferramenta, as vezes falha, as vezes exepcional, mas sempre útil  </p>
 </div>
+  
+ 
+ [/Linguagens/]: <>
 
-<h2> Sobre mim: </h2> 
+ <div align="left">
+  <h3> Linguagens: </h3>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ </div>
+
+
+  [/Sistemas Operacionais/]: <>
+
+ <div align="left">
+  <h3> Sistemas Operacionais: </h3>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ </div>
  
-   **Formação acadêmica:** Bacharelado Interdisciplinar em Ciência e Tecnologia - Universidade Federal da Bahia (Em andamento).
-   
-   **Áreas de interesse:**
-  - _Engenharia de Software;_
-  - _DevOps;_
-  - _Infraestrura e Redes._
+  
+ [/Ferramentas/]: <> 
  
-  **Temas de interesse:**
-  - _Software Livre;_
-  - _Infraestrutura como código(IaC);_
-  - _Automatização de Sistemas;_
-  - _Segurança da Informação;_
-  - _Prototipagem com Arduino._
- 
+ <div align="left">  
+  <h3> Ferramentas: </h3>
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+ </div>
+
+ [/Plataformas de prototipagem/]: <>
+
+ <div align="left">
+  <h3> Plataformas de prototipagem: </h3>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+ </div>
   
 *** 
   
 [/Estatísticas/]: <> 
+
  
- <div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Nicole Silva github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=D2691E&bg_color=0d1117" />
-  
+ <div align="left">  
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Nicole Silva github stats"/> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=D2691E&bg_color=0d1117" /> 
 </div>
   
  ***
-  
- [/Ferramentas/]: <> 
- 
- <div alingn="length">
-  
-  <h3> Ferramentas: </h3>
-  <img src="https://user-images.githubusercontent.com/68083480/228995585-109b395e-43f0-4fd3-8a9b-b2d6cb4e7684.png" />
-  <img src="https://user-images.githubusercontent.com/68083480/228995627-62494b15-64d3-492b-a9c7-a933db1b3a7d.png" />
-  <img src="https://user-images.githubusercontent.com/68083480/228995631-7c69c448-9606-4247-999e-db1411525643.png" />
-  <img src="https://user-images.githubusercontent.com/68083480/229121319-7f501031-4796-4565-a4e9-0bd41cf83b2f.png" />
-  <img src="https://user-images.githubusercontent.com/68083480/229164082-a47c7c74-6186-4676-bab5-ffcc5b2a13e4.png" />
- 
- </div>
+
   
   
  [/Contatos/]: <> 
  
-<div alingn="length">
-
+<div align="center">
   <h3> Contatos: </h3>
 
   <p align="lenght">
@@ -61,7 +72,6 @@
    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedroveiga.ribeiro@gmail.com?subject=Ol%C3%A1!"  /></a>
   
    <a href="https://www.linkedin.com/in/nicole-silva-a1a184224/" alt="Linkedin" target="_blank">
-   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>
-   
+   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>   
 </div>
 
