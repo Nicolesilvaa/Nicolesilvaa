@@ -17,6 +17,7 @@
  <div align="left">
   <h3> Linguagens: </h3>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+   <img src="https://img.shields.io/badge/python-6E7B8B?style=for-the-badge&logo=python&logoColor=white" />
  </div>
 
 
