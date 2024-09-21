@@ -8,7 +8,7 @@
  
 <div align="center">  
  <h2> cout << " NILEWA CODE WORLD " << endl;</h2> 
- <p> Não me considero uma entusiasta da computação, os entusiatas podem beirar o fanatismo. Me considero uma curiosa desse mundo em expansão. Vejo a tecnologia como uma ferramenta, as vezes falha, as vezes exepcional, mas sempre útil  </p>
+ <p> Olá! Me chamo Nicole. DevOps Engineer em formação, apaixonada por automação 🚀. </p>
 </div>
   
  
