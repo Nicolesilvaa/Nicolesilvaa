@@ -8,23 +8,22 @@
  
 <div align="center">  
  <h2> cout << " NILEWA CODE WORLD " << endl;</h2> 
- <p> Olá! Me chamo Nicole. DevOps Engineer em formação, apaixonada por automação 🚀. </p>
+ <p> Hi! I'm Nicole. DevOps Engineer in training, passionate about automation  🚀. </p>
 </div>
   
  
- [/Linguagens/]: <>
+ [/Languages/]: <>
 
  <div align="left">
-  <h3> Linguagens: </h3>
+  <h3> Languages: </h3>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img src="https://img.shields.io/badge/python-6E7B8B?style=for-the-badge&logo=python&logoColor=white" />
  </div>
 
-
   [/Sistemas Operacionais/]: <>
 
  <div align="left">
-  <h3> Sistemas Operacionais: </h3>
+  <h3> Operating Systems: </h3>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
@@ -35,7 +34,7 @@
  [/Ferramentas/]: <> 
  
  <div align="left">  
-  <h3> Ferramentas: </h3>
+  <h3> Tools: </h3>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -46,7 +45,7 @@
  [/Plataformas de prototipagem/]: <>
 
  <div align="left">
-  <h3> Plataformas de prototipagem: </h3>
+  <h3> Prototyping platforms: </h3>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
  </div>
   
