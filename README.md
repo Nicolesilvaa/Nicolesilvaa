@@ -68,6 +68,7 @@
     width="49%" 
     height="190px"
   />
+
 </div>
   
  *** 
@@ -85,3 +86,4 @@
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-veiga-ribeiro-01b137206/" /></a>   
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/nicolesilvaa/blob/output/github-contribution-grid-snake.svg)
