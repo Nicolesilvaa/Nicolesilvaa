@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=Terraform&logoColor=white"" />
+  <img src="https://img.shields.io/badge/AWS-FFFF00?style=for-the-badge&logo=AmazonAWS&logoColor=white"" />
+  
  </div>
 
  [/Plataformas de prototipagem/]: <>
