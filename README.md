@@ -7,7 +7,7 @@
  [/Apresentação/]: <> 
  
 <div align="center">  
- <h2> cout << " NILEWA CODE WORLD " << endl;</h2> 
+ <h1>Nicole Silva</h1> 
  <p> Hi! I'm Nicole. DevOps Engineer in training, passionate about automation  🚀. </p>
 </div>
   
