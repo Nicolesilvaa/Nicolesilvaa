@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manjaro-35bfa4?style=for-the-badge&logo=manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
  </div>
  
@@ -41,7 +42,7 @@
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=Terraform&logoColor=white"" />
-  <img src="https://img.shields.io/badge/AWS-FFFF00?style=for-the-badge&logo=AmazonAWS&logoColor=white"" />
+  <img src="https://img.shields.io/badge/AWS-FFFF00?style=for-the-badge&logo=amazonAws&logoColor=white"" />
   
  </div>
 
