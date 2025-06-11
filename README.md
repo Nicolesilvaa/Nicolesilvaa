@@ -38,7 +38,6 @@
 <div align="left">
  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
 </div>
-***
 
 ## 📈 Estatísticas GitHub
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
