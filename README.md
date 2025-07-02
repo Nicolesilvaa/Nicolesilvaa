@@ -3,7 +3,7 @@
 ![giphy](https://github.com/user-attachments/assets/807fb4ca-ac70-4961-bf03-3a0248a5dd46)
 
   <h1>Nicole Silva</h1>
-  <h3>DevOps Engineer em Formação | Apaixonada por Automação 🚀</h3>
+  <h3> Software Engineer | Apaixonada por Tecnologia 🚀</h3>
 </div>
 
 ***
