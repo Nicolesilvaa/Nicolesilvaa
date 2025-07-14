@@ -8,7 +8,10 @@
 
 ***
 ## 🎓 Cursos e Certificações
-![aws-re-start-graduate(1)](https://github.com/user-attachments/assets/d95f666c-aba2-4647-9a21-3c357330fad3)
+
+<img width="132" height="132" alt="aws-re-start-graduate(1)" src="https://github.com/user-attachments/assets/82559a50-fb76-4cef-b137-0bb3a917bb5b" />
+<img width="132" height="132" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/40fc48b5-0879-4df3-9189-3ebabb34a342" />
+
 
 ## Tecnologias
 
