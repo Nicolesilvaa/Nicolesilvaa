@@ -37,24 +37,9 @@
 </div>
 
 ## 📈 Estatísticas GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nicolesilvaa&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" 
-    alt="Estatísticas GitHub" 
-    height="168"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nicolesilvaa&hide_border=true&stroke=D2691E&background=0d1117&ring=D2691E&fire=D2691E&currStreakNum=c9d1d9&sideNums=D2691E&currStreakLabel=D2691E&sideLabels=D2691E&dates=5C677D&locale=pt-br" 
-    alt="Sequência GitHub"
-    height="168"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" 
-    alt="Linguagens Mais Usadas"
-    height="168"
-  />
-</div>
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=nicolesilvaa&theme=sea)](https://git.io/streak-stats)
+ 
 ## 🤝 Vamos Conectar
 
 <div align="center">
