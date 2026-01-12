@@ -37,7 +37,10 @@
 </div>
 
 ## 📈 Estatísticas GitHub
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nicolesilvaa&theme=sea&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=nicolesilvaa&theme=sea&hide_border=true" alt="GitHub Streak" />
+</a>
+
 ## 🤝 Vamos Conectar
 
 <div align="center">
