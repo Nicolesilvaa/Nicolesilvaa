@@ -3,7 +3,7 @@
 ![giphy](https://github.com/user-attachments/assets/807fb4ca-ac70-4961-bf03-3a0248a5dd46)
 
   <h1>Nicole Silva</h1>
-  <h3> Software Engineer | Apaixonada por Tecnologia 🚀</h3>
+  <h3> Dev Backend | Apaixonada por Tecnologia 🚀</h3>
 </div>
 
 ***
@@ -45,12 +45,12 @@
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=nicolesilvaa&hide_border=true&stroke=D2691E&background=0d1117&ring=D2691E&fire=D2691E&currStreakNum=c9d1d9&sideNums=D2691E&currStreakLabel=D2691E&sideLabels=D2691E&dates=5C677D&locale=pt-br" 
-    alt="Sequência GitHub" 
+    alt="Sequência GitHub"
     height="168"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesilvaa&layout=compact&hide_border=true&title_color=D2691E&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" 
-    alt="Linguagens Mais Usadas" 
+    alt="Linguagens Mais Usadas"
     height="168"
   />
 </div>
